@@ -1,3 +1,4 @@
+-- https://adventofcode.com/2024/day/1
 module Day01 where
 
 import Data.List (sort)

@@ -1,3 +1,4 @@
+-- https://adventofcode.com/2024/day/2
 module Day02 where
 
 import Data.List (delete)
